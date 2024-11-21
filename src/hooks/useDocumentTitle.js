@@ -5,7 +5,7 @@ const useDocumentTitle = (title) => {
     if (title) {
       document.title = title;
     } else {
-      document.title = 'SimpleBrand - eCommerce React App';
+      document.title = 'SimpleBrand -  React App';
     }
   }, [title]);
 };
