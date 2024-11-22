@@ -98,6 +98,6 @@
 }
 .product-image {
   position: relative;
-  z-index: 0; /* Ensures the image stays below the overlay */
+  z-index: 9; /* Ensures the image stays below the overlay */
   width: 100%; /* Adjust size as needed */
 }
